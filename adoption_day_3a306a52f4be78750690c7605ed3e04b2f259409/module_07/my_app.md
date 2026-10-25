@@ -1,0 +1,23 @@
+# 🐾 Adoption Day
+
+```
+### 🏠 Welcome
+**Saturday, three campuses, twelve dogs.** Come and meet them.
+
+[Campuses](#)
+{: .runner src="../module_00/_app_campuses.md" title="" }
+
+### 🐕 Our dogs
+[Dogs](#)
+{: .runner src="../module_00/_app_dogs.md" title="" }
+
+[Reports](#)
+{: .runner src="../module_00/_app_reports.md" title="" }
+
+### 🙋 Author
+## 💼 Hire me!
+
+[My CV](#)
+{: .runner src="../module_01/cv.md" bench="true" title="" }
+```
+{: .tabs }
