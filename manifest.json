@@ -1,13 +1,14 @@
 {
  "adoption_day": {
-  "sha": "83376e6c679767f465ff4c13f690ea4d56b143b7",
+  "sha": "3a306a52f4be78750690c7605ed3e04b2f259409",
   "entry": "module_07/my_app.md",
   "files": [
    "module_07/my_app.md",
    "module_00/_app_campuses.md",
    "module_00/_app_dogs.md",
-   "module_00/_app_reports.md"
+   "module_00/_app_reports.md",
+   "module_01/cv.md"
   ],
-  "at": "2026-10-24T23:08:10.032Z"
+  "at": "2026-10-25T02:59:50.252Z"
  }
 }
