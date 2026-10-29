@@ -1,6 +1,6 @@
 {
  "adoption_day": {
-  "sha": "0214daa735d47d6f15690987ad54a6ddcc94c820",
+  "sha": "9957281e6d56de5612699ebcb5f5acc799cef005",
   "entry": "module_07/my_app.md",
   "files": [
    "module_07/my_app.md",
@@ -9,8 +9,23 @@
   ],
   "by": "zamm-student",
   "engine": "266b8d3",
-  "at": "2026-10-29T17:15:44.404Z",
+  "at": "2026-10-29T17:18:54.737Z",
   "history": [
+   {
+    "sha": "9957281e6d56de5612699ebcb5f5acc799cef005",
+    "at": "2026-10-29T17:18:54.737Z",
+    "entry": "module_07/my_app.md",
+    "engine": "266b8d3",
+    "parts": [
+     "runner",
+     "tabs",
+     "avatar_trigger",
+     "avatar",
+     "video"
+    ],
+    "todo": 0,
+    "note": "📹 the recording's link"
+   },
    {
     "sha": "0214daa735d47d6f15690987ad54a6ddcc94c820",
     "at": "2026-10-29T17:15:44.404Z",
