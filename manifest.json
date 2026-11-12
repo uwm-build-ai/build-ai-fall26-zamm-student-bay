@@ -267,7 +267,7 @@
   ]
  },
  "my_brief": {
-  "sha": "68eb55fa857296a91953724aa12b534577cb9ae1",
+  "sha": "459f438612b4bd8a13033bb2740fb0fab67d5433",
   "entry": "module_08/app.md",
   "files": [
    "module_08/app.md",
@@ -279,9 +279,27 @@
    "module_01/cv.md"
   ],
   "by": "zamm-student",
-  "engine": "84fc679",
-  "at": "2026-11-12T18:11:42.465Z",
+  "engine": "b9e2606",
+  "at": "2026-11-12T19:07:18.139Z",
   "history": [
+   {
+    "sha": "459f438612b4bd8a13033bb2740fb0fab67d5433",
+    "at": "2026-11-12T19:07:18.139Z",
+    "entry": "module_08/app.md",
+    "engine": "b9e2606",
+    "parts": [
+     "import",
+     "persona",
+     "pitch",
+     "runner",
+     "dataset",
+     "datagrid",
+     "tabs",
+     "video"
+    ],
+    "todo": 0,
+    "note": "v3 · V5 with Recording"
+   },
    {
     "sha": "68eb55fa857296a91953724aa12b534577cb9ae1",
     "at": "2026-11-12T18:11:42.465Z",
