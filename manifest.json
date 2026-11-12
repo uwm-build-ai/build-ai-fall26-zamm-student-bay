@@ -280,11 +280,11 @@
   ],
   "by": "zamm-student",
   "engine": "b9e2606",
-  "at": "2026-11-12T17:20:22.251Z",
+  "at": "2026-11-12T17:20:54.311Z",
   "history": [
    {
     "sha": "3f562ec2f83b678f2feea9478ad0bb9ca08fb6ad",
-    "at": "2026-11-12T17:20:22.251Z",
+    "at": "2026-11-12T17:20:54.311Z",
     "entry": "module_08/app.md",
     "engine": "b9e2606",
     "parts": [
@@ -297,7 +297,7 @@
      "tabs"
     ],
     "todo": 0,
-    "note": "v3"
+    "note": "v3.1"
    },
    {
     "sha": "4b2b8fab023f8c5cb51d18386f7f090e33266676",
