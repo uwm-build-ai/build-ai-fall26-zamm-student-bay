@@ -1,0 +1,36 @@
+- so_that: >-
+    Jay requests help on a specific statistics exercise, stating the problem and
+    deadline
+  as_a: Tutor
+  headline: Post Help Request
+  i_want: 👤 Ask for help on one exercise – Jay posts his request in the app
+  value_why: Engages users quickly, but spam risk lowers net value.
+  business_value: 65
+  tech_note: >-
+    comment: Simple posting form, ensure clear fields.; advice: Validate
+    deadline format and required fields.; risk: Potential spam or duplicate help
+    requests.
+- so_that: >-
+    Jay receives an AI‑generated list of qualified study buddies who have passed
+    the course and are free now
+  as_a: Tutor
+  headline: AI Buddy Matching
+  i_want: 🤖 Match a buddy by course and schedule – the AI suggests suitable partners
+  value_why: Core differentiator, fallback mitigates trust risk.
+  business_value: 80
+  tech_note: >-
+    comment: AI matches based on course and availability data.; advice: Use
+    deterministic fallback if AI confidence low.; risk: Incorrect matches could
+    frustrate users, reduce trust.
+- so_that: >-
+    Jay completes a short quiz after the session to confirm understanding and
+    logs his progress
+  as_a: Tutor
+  headline: Post Session Quiz
+  i_want: A quiz after the session – Jay takes the quiz and records his results
+  value_why: Validates learning; short design needed to avoid demotivation.
+  business_value: 55
+  tech_note: >-
+    comment: Quiz records results for progress tracking.; advice: Keep quiz
+    short, focus on key concepts.; risk: Poorly designed quiz may demotivate
+    users.
