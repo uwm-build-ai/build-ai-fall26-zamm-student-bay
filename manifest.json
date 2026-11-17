@@ -402,5 +402,36 @@
     "note": "v1"
    }
   ]
+ },
+ "my_poc": {
+  "sha": "d5a22c9ba7569ae301580719a285239ccd4c9098",
+  "entry": "module_09/app.md",
+  "files": [
+   "module_09/app.md",
+   "module_09/first_feature.md",
+   "module_08/app.md",
+   "module_08/welcome.md",
+   "module_08/zim.yaml",
+   "module_08/pitch.yaml",
+   "module_08/map.md",
+   "module_08/features.yaml"
+  ],
+  "by": "zamm-student",
+  "engine": "3f020f0",
+  "at": "2026-11-17T23:59:14.420Z",
+  "history": [
+   {
+    "sha": "d5a22c9ba7569ae301580719a285239ccd4c9098",
+    "at": "2026-11-17T23:59:14.420Z",
+    "entry": "module_09/app.md",
+    "engine": "3f020f0",
+    "parts": [
+     "runner",
+     "tabs"
+    ],
+    "todo": 0,
+    "note": "poc 1 · poc"
+   }
+  ]
  }
 }
