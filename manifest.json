@@ -404,7 +404,7 @@
   ]
  },
  "my_poc": {
-  "sha": "d5a22c9ba7569ae301580719a285239ccd4c9098",
+  "sha": "cffece9bd64544307627d7cf8fa28f6c6e801df9",
   "entry": "module_09/app.md",
   "files": [
    "module_09/app.md",
@@ -417,9 +417,21 @@
    "module_08/features.yaml"
   ],
   "by": "zamm-student",
-  "engine": "3f020f0",
-  "at": "2026-11-17T23:59:14.420Z",
+  "engine": "4e9297c",
+  "at": "2026-11-19T18:26:51.680Z",
   "history": [
+   {
+    "sha": "cffece9bd64544307627d7cf8fa28f6c6e801df9",
+    "at": "2026-11-19T18:26:51.680Z",
+    "entry": "module_09/app.md",
+    "engine": "4e9297c",
+    "parts": [
+     "runner",
+     "tabs"
+    ],
+    "todo": 0,
+    "note": "poc v2"
+   },
    {
     "sha": "d5a22c9ba7569ae301580719a285239ccd4c9098",
     "at": "2026-11-17T23:59:14.420Z",
